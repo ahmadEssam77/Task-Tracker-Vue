@@ -1,5 +1,7 @@
 # first-project
 
+Preview => https://trusting-golick-0449f7.netlify.app
+
 ## Project setup
 ```
 npm install
